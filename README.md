@@ -13,7 +13,7 @@
   - 1 root
   - 1 leaf
   - 1 stem
-- We also hypothesize a scenario where water stress can alter the crop's sink strength where each organs has it's own sensitivity
+- We also hypothesize a scenario where water stress can alter the crop's sink strength where each organs has it's own sensitivity. If we consider that the roots' SS is more resilient to water stress then it'd mimic a higher partitioning factor to roots when the crop is subjected to drought.
 
 ## Partitioning Factors under optimum water
 ![alt text](https://github.com/Murilodsv/relative_ss/blob/master/pfac_optimum_h2o.png)
